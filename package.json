@@ -1,0 +1,22 @@
+{
+  "name": "tt_node_final_2025",
+  "version": "1.0.0",
+  "description": "Proyecto final de Node.js para Talento Tech, año 2025. Es una app de ecommerce",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Ana Llanes para Talento Tech",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "firebase": "^12.6.0",
+    "jsonwebtoken": "^9.0.3",
+    "nodemailer": "^7.0.11"
+  }
+}
